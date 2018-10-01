@@ -1,4 +1,4 @@
-## Margaery
+## Margaery [Deprecated]
 
 Margaery is an experimental attempt to build an open source Text to Speech (TTS) engine generator. If successful, Margaery will allow you to construct a customized and personalized TTS engine which will speak in your voice.
 
